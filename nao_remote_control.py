@@ -1,3 +1,5 @@
+# geëdit in de browser. Rob 23 maart 2017
+
 import nao_nocv_2_0 as nao
 
 def InitNao():
